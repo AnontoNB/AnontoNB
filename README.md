@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnontoNB
 - 👀 I’m interested in cloud computing, cybersecurity, full stack development, cryptocurrency, programming, music, and working out.
-- 🌱 I’m currently learning Python, Java and Javascript.
-- 💞️ I’m looking to collaborate on any interesting smallscale or largescale projects relating to Information Technology, or anything else.
+- 🌱 I’m currently learning Python, Java, Javascript, SQL, and C++.
+- 💞️ I’m looking to collaborate on any interesting smallscale or largescale projects relating to Information Technology, or anything else that may seem fun!
 - 📫 Message me here on GitHub or anontob@my.yorku.ca for any inquiries.
 
 <!---
